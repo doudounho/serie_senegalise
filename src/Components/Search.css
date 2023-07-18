@@ -1,0 +1,14 @@
+.searchBar {
+    padding: 2rem, 1 rem;
+}
+.searchBar input{
+    font-size: 1.2rem  ;
+}
+.search_results{
+    width: 100%;
+}
+.search_result{
+    border: 1px;
+    margin: 4rem, 1rem;
+    padding: 0.4rem;
+}
